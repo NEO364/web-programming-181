@@ -1,0 +1,77 @@
+header{
+    display: inline-block;
+    position:absolute;
+    width: 100%;
+    display:block;
+    left: 0;
+    height:80px;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+.Logo{
+    position:relative;
+    left:-510px;
+    height:60px;
+    padding:6px 16px;
+    margin:5px;
+}
+#Name{
+    position:relative;
+    left:-530px;
+    top:-11px;
+    font-size:200%;
+    display:inline-block;
+    text-align: center;
+    margin:5px;
+    font-style:italic; 
+}
+.audio1{
+    position:relative;
+    left:-5px;
+    top:110px;
+    display:inline-block;
+    margin:5px;
+}
+.audio2{
+    position:relative;
+    left:615px;
+    top:190px;
+    display:inline-block;
+    margin:5px;
+}
+.audio3{
+    position:relative;
+    left:300px;
+    top:110px;
+    display:inline-block;
+    margin:5px;
+}
+.audio4{
+    position:relative;
+    left:-480px;
+    top:210px;
+    display:inline-block;
+    margin:5px;
+}
+h1{
+    top:190px;
+    width:1400px;
+    display:block;
+    right:-160px;
+    height:1280px;
+    text-align: center;
+    position:relative;
+    margin:50px;
+    display:inline-block;
+    background: url("../images/p1324953644-4.jpg")no-repeat;
+}
+h2{
+    top:80px;
+    display: inline-block;
+    position:absolute;
+    left:500px;
+    font-size:300%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}

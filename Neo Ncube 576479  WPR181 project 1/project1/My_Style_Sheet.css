@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.Header{
+    display: inline-block;
+    box-shadow: 0 6px 11px burlywood;
+    border-color:burlywood;
+    border-style:groove;
+    border-bottom-width:8px;
+    background-image: url("AdobeStock_79546702.jpg")
+   
+}
+#Name{
+    left:630px;
+    font-size:200%;
+    display:inline-block;
+    text-align: center;
+    margin: auto;
+    font-style:italic;
+}
+
+.nav:hover{
+    background-image:url("8a8f2e0b70881e55d485be1eea70794a.jpg");
+    background-repeat: no-repeat;
+}
+
+.Logo{
+    height:60px;
+    padding:6px 16px;
+    
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+ul li{
+    display: inline-block;
+    float:left;
+    border:burlywood;
+    margin: auto;
+}
+
+ul li a{
+     display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none
+}
+h1{
+    display: inline-block;
+    position:absolute;
+    left:630px;
+    font-size:300%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+    }
+   
+    article{
+        margin:auto;
+        display: inline-block;
+        height:20px;
+        width:200px;
+        position:fixed;
+        top:210px;
+        left:630px;       
+    }
+    p{
+    box-shadow: 0 6px 11px burlywood;
+    text-transform:uppercase;
+    font-style:italic;
+    }
+    
+    body{
+        background-size:100%;
+        background-image: url("b5e88e92b55a6c095564a69f0c7ae79b.jpg");
+        background-repeat: no-repeat;
+    }
+    .Aside1{
+        background-size: 186px;
+        width: 186px;
+        
+    }

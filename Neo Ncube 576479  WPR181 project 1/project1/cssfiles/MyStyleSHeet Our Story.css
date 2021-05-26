@@ -1,0 +1,90 @@
+header{
+    display: inline-block;
+    position:absolute;
+    width: 100%;
+    display:block;
+    left: 0;
+    height:80px;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+.Logo{
+    position:relative;
+    left:-510px;
+    height:60px;
+    padding:6px 16px;
+    margin:5px;
+}
+#Name{
+    position:relative;
+    left:-530px;
+    top:-11px;
+    font-size:200%;
+    display:inline-block;
+    text-align: center;
+    margin:5px;
+    font-style:italic; 
+}
+.ourstory{
+    position:absolute;
+    left:500px;
+    top:110px;
+    font-size:400%;
+    text-align: center;
+    margin:5px;
+    font-style:italic; 
+    box-shadow: 0 6px 11px burlywood;
+}
+.His{
+    margin:120px;
+    display: inline-block;
+    position:absolute;
+    right:-60px;
+    font-size:300%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+.her{
+    top:5px;
+    margin:120px;
+    display: inline-block;
+    position:absolute;
+    left:-60px;
+    font-size:300%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+.Blah{
+    top:5px;
+    left:60px;
+    margin:0px;
+        height:200px;
+        width:200px;
+        font-size:80%;
+        position: relative;
+        right:-615px;   
+        display:block;
+        text-align: center;
+       box-shadow: 0 6px 11px burlywood;
+}
+.Yes{
+    right:-1092px;
+    margin:0px;
+        height:200px;
+        width:200px;
+        font-size:80%;
+        position: relative;
+        top:210px;   
+        display:block;
+        text-align: center;
+        box-shadow: 0 6px 11px burlywood;
+}
+aside{
+    top:-180px;
+    display: inline-block;
+    position:relative;
+    left: 310px;
+    display:block;
+}

@@ -1,0 +1,56 @@
+header{
+    display: inline-block;
+    position:absolute;
+    width: 100%;
+    display:block;
+    left: 0;
+    height:80px;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+.Logo{
+    position:relative;
+    left:-510px;
+    height:60px;
+    padding:6px 16px;
+    margin:5px;
+}
+#Name{
+    position:relative;
+    left:-530px;
+    top:-11px;
+    font-size:200%;
+    display:inline-block;
+    text-align: center;
+    margin:5px;
+    font-style:italic;
+    
+}
+h1{
+    margin:100px;
+    display: inline-block;
+    position:absolute;
+    left:530px;
+    font-size:300%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+article{
+        margin:0px;
+        height:400px;
+        width:200px;
+        font-size: 160%;
+        position: relative;
+        right:-615px;
+        top:210px;   
+        display:block;
+        text-align: center;
+       box-shadow: 0 6px 11px burlywood;
+    }
+    .Aside3{
+        position: absolute;
+        top:110px;
+        height:20px;
+        width:19.5px;
+    }

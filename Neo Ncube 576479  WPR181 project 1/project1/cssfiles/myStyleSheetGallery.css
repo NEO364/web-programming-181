@@ -1,0 +1,83 @@
+Header{
+    display: inline-block;
+    position:absolute;
+    width: 100%;
+    display:block;
+    left: 0;
+    height:80px;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+.Logo{
+    position:relative;
+    left:-510px;
+    height:60px;
+    padding:6px 16px;
+    margin:5px;
+}
+#Name{
+    position:relative;
+    left:-530px;
+    top:-11px;
+    font-size:200%;
+    display:inline-block;
+    text-align: center;
+    margin:5px;
+    font-style:italic; 
+}
+.Gallery{
+    text-decoration: none;
+    position:relative;
+    top:110px;
+    margin:5px;
+    width:55px;
+    height:55px;
+    padding:2px;
+}
+
+.img1{
+    text-decoration: none;
+    position:relative;
+    top:-610px;
+    left:310px;
+    padding:2px;
+}
+.img2{
+     text-decoration: none;
+    position:relative;
+    top:-1230px;
+    left:620px;
+    padding:2px;
+}
+.img3{
+    text-decoration: none;
+    position:relative;
+    top:-1848px;
+    left:936px;
+    padding:2px;
+}
+.img1:hover .overlay{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.img2:hover .overlay{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.img3:hover .overlay{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: burlywood;
+    background-repeat:tiled;
+}

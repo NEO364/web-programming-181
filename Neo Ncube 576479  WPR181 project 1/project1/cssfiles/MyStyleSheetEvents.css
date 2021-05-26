@@ -1,0 +1,118 @@
+.Header{
+    height: 100%;
+    box-shadow: 0 6px 11px burlywood;
+    display: inline-block;
+    width: 100%;
+}
+#Name{
+    left:630px;
+    font-size:200%;
+    display:inline-block;
+    text-align: center;
+    margin: auto;
+    font-style:italic;
+}
+.Logo{
+    height:60px;
+    padding:6px 16px;
+}
+#RD{
+    top:230px;
+    display: inline-block;
+    position:absolute;
+    left:70px;
+    font-size:100%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+h1{
+    display: inline-block;
+    position:absolute;
+    left:60px;
+    font-size:200%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+#DAte{
+    top:160px;
+    display: inline-block;
+    position:absolute;
+    left:70px;
+    font-size:100%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+h2{
+    top:180px;
+    display: inline-block;
+    position:absolute;
+    left:150px;
+    font-size:100%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+#WD{
+    width: 250px;
+    display: inline-block;
+    position:relative;
+    left: 960px;
+    font-size:200%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+#FS{
+    top:-10px;
+     width: 250px;
+    display: inline-block;
+    position:relative;
+    left: 960px;
+    font-size:100%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+#LL{
+    top:-10px;
+     width: 250px;
+    display: inline-block;
+    position:relative;
+    left: 960px;
+    font-size:100%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+#PTA{
+    top:5px;
+     width: 250px;
+    display: inline-block;
+    position:relative;
+    left: 960px;
+    font-size:100%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+aside{
+    top:-145px;
+    display: inline-block;
+    position:relative;
+    left: 460px;
+    display:block;
+}
+#EV{
+    font-size:205%;
+    width: 250px;
+    top:85px;
+    display: inline-block;
+    position:absolute;
+    left: 490px;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}

@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.Header{
+    height: 100%;
+    box-shadow: 0 6px 11px burlywood;
+    display: inline-block;
+    width: 100%;
+}
+#Name{
+    left:630px;
+    font-size:200%;
+    display:inline-block;
+    text-align: center;
+    margin: auto;
+    font-style:italic;
+}
+
+.nav:hover{
+    background-image:url("../images/8a8f2e0b70881e55d485be1eea70794a.jpg");
+    background-repeat: repeat;
+}
+
+.Logo{
+    height:60px;
+    padding:6px 16px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+ul li{
+    display: inline-block;
+    float:left;
+    border:burlywood;
+    margin: auto;
+}
+
+ul li a{
+     display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none
+}
+h1{
+    display: inline-block;
+    position:absolute;
+    left:630px;
+    font-size:300%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+    }
+   
+    
+    p{
+    box-shadow: 0 6px 11px burlywood;
+    text-transform:uppercase;
+    font-style:italic;
+    }
+    .Aside1{
+        top:0;
+        bottom:0;
+        height:620px;
+        width:19.5px;
+    }
+    .Aside2{
+        position: relative;
+        left: 1100px;
+        top:-620px;
+    }
+    #Heading{
+        text-align: center;
+        margin:20px;
+        display:inline-block;
+        font-style:italic;
+        left:520px;
+        text-decoration-style:wavy;
+        font-size:200%;
+    }
+    #SubHeading{
+        text-align: center;
+        margin:100px;
+        display:inline-block;
+        font-style:italic;
+        left:428px;
+        text-decoration-style:wavy;
+        font-size:300%;
+    }
+    
+    .aisle{
+         position:absolute;
+        left:505px;
+        top:380px;
+        opacity: 0.8;
+    }
+    .MH{
+         position:absolute;
+        left:450px;
+        top:320px;
+    }
+    
+    

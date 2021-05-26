@@ -1,0 +1,97 @@
+.Header{
+    height: 100%;
+    box-shadow: 0 6px 11px burlywood;
+    display: inline-block;
+    width: 100%;
+}
+#Name{
+    left:630px;
+    font-size:200%;
+    display:inline-block;
+    text-align: center;
+    margin: auto;
+    font-style:italic;
+}
+;.Logo{
+    height:60px;
+    padding:6px 16px
+}
+form{
+    top: -90px;
+    position: relative;
+    left: 230px;
+    height: 250px;
+    width:856px;
+   
+}
+fieldset{
+     background-image: url("../images/AdobeStock_79546702.jpg");
+}
+#FN{
+    color: white;
+     position: relative;
+    top: -130px;
+    padding: 10px;
+    font-size:20px;
+    margin: auto;
+    float:left;
+}
+#LN{
+    color: white;
+    position: relative;
+    top: -110px;
+    left: -110px;
+    padding: 10px;
+    font-size:20px;
+    margin: auto;
+    float:left;
+}
+#EA{
+    color: white;
+    left: -225px;
+    position: relative;
+    top: -95px;
+    padding: 10px;
+    font-size:20px;
+    margin: auto;
+    float:left;
+}
+
+#mytext1{
+    top: -120px;
+    left:25px;
+    position: relative;
+}
+#mytext2{
+    top:-100px;
+    left:-82px;
+    position: relative;
+}
+
+#mytext3{
+    top: -80px;
+    left:-220px;
+    position: relative;
+}
+legend{
+    margin:100px;
+    display: inline-block;
+    font-size:200%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+    top: -50px;
+    right:-10px;
+    position: relative;
+}
+h1{
+     margin:100px;
+    display: inline-block;
+    font-size:200%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+    top: -60px;
+    right:-10px;
+    position: relative;
+}

@@ -1,0 +1,97 @@
+header{
+    display: inline-block;
+    position:absolute;
+    width: 100%;
+    display:block;
+    left: 0;
+    height:80px;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+.Logo{
+    position:relative;
+    left:-510px;
+    height:60px;
+    padding:6px 16px;
+    margin:5px;
+}
+#Name{
+    position:relative;
+    left:-530px;
+    top:-11px;
+    font-size:200%;
+    display:inline-block;
+    text-align: center;
+    margin:5px;
+    font-style:italic; 
+}
+h1{
+    margin:100px;
+    display: inline-block;
+    position:absolute;
+    left:330px;
+    font-size:300%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+.num1{
+    margin:250px;
+    display: inline-block;
+    position:absolute;
+    right:-160px;
+    font-size:200%;
+    text-decoration: none;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+.num2{
+    margin:250px;
+    display: inline-block;
+    position:absolute;
+    left:-80px;
+    font-size:200%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+.num3{
+    margin:250px;
+    display: inline-block;
+    position:absolute;
+    left:230px;
+    font-size:200%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+.num4{
+    margin:250px;
+    display: inline-block;
+    position:absolute;
+    left:530px;
+    font-size:200%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+}
+aside{
+     position: relative;
+        left: 1100px;
+        top:80px;
+        opacity:0.2;
+}
+.IMGG1{
+    position: absolute;
+        left: 560px;
+        top:90px;
+        opacity:0.2;
+}
+.IMGG2{
+    position:absolute;
+        left:-5px;
+        top:90px;
+        opacity:0.2;
+}
+

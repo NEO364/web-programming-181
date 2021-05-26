@@ -1,0 +1,66 @@
+.Header{
+    height: 100%;
+    box-shadow: 0 6px 11px burlywood;
+    display: inline-block;
+    width: 100%;
+}
+#name{
+    left:630px;
+    font-size:200%;
+    display:inline-block;
+    text-align: center;
+    margin: auto;
+    font-style:italic;
+}
+Logo{
+    height:60px;
+    padding:6px 16px;
+}
+form{
+    top: 10px;
+    position: relative;
+    left: 10px;
+    height: 250px;
+    width:856px;
+}
+#name{
+    color: white;
+     position: relative;
+    top: -130px;
+    padding: 10px;
+    font-size:20px;
+    margin: auto;
+    float:left;
+}
+#last name{
+    color: white;
+    position: relative;
+    top: -110px;
+    left: -110px;
+    padding: 10px;
+    font-size:20px;
+    margin: auto;
+    float:left;
+}
+legend{
+    margin:100px;
+    display: inline-block;
+    font-size:200%;
+    display:block;
+    text-align: center;
+    box-shadow: 0 6px 11px burlywood;
+    top: -50px;
+    right:-10px;
+    position: relative;
+}
+h1{
+    margin:100px;
+   display: inline-block;
+   font-size:200%;
+   display:block;
+   text-align: center;
+   box-shadow: 0 6px 11px burlywood;
+   top: -60px;
+   right:-10px;
+   position: relative;
+}
